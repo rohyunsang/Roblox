@@ -1,3 +1,3 @@
 return function()
-	print("Hello, world!")
+	print("Here is ReplicatedStorage")
 end
